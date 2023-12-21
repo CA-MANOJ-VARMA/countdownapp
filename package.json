@@ -1,4 +1,5 @@
 {
+  "homepage":"http://CA-MANOJ-VARMA.github.io/countdownapp",
   "name": "countdown",
   "version": "0.1.0",
   "private": true,
@@ -41,6 +42,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.0"
-  },
-  "homepage":"http://CA-MANOJ-VARMA.github.io/countdownapp"
+  }
+
 }
